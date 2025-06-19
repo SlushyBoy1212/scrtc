@@ -1,0 +1,11 @@
+{
+  "nmc":{
+    "nmu":"ndu.json",
+    "modified_splash": "modified"
+  },
+  "loading_texts":[
+    "Loading!",
+    "Creating Assets (this may take a while).",
+    "Getting JSON configuration..."
+  ]
+}
